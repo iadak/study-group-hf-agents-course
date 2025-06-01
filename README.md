@@ -12,6 +12,29 @@ This plan covers the course content for the until unit 4 by using one of the Age
 | [Unit 3. Use Case for Agentic RAG](https://huggingface.co/learn/agents-course/unit3/agentic-rag/introduction) | 2025-06-21 | - RAG, Agentic RAG, Agentic RAG with smolagents |
 | [Unit 4. Final Unit Project](https://huggingface.co/learn/agents-course/unit4/introduction) | 2025-06-28 |  |
 
+# Local Setup
+
+## Environment Setup
+```bash
+uv venv --python 3.11
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Refer [uv](https://docs.astral.sh/uv/) for more details on the uv package manager.
+
+## Generate Hugging Face API Token
+
+- Go to [Hugging Face](https://huggingface.co/) and login with your GitHub account.
+- Go to [API Tokens](https://huggingface.co/settings/tokens) and generate a new token.
+- Copy the token and paste it in the `.env` file in the root of the project.
+
+```bash
+echo "HF_TOKEN=hf_..." >> .env
+```
+
 # Resources
 
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/)
+- [Hugging Face Agents Course Github Repo](https://github.com/huggingface/agents-course)
+- [smolagents](https://huggingface.co/docs/smolagents/en/index)
