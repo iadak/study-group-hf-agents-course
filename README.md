@@ -8,7 +8,7 @@ This plan covers the course content for the until unit 4 by using one of the Age
 | Unit | Date | Description | Session Notes |
 |------|------|-------------|-------|
 |Study Group Kickoff | 2025-06-01 | Participant Introduction, Course Overview, Discuss Tentitive Plan | [Session Notes](session_notes/01_kickoff.md)|
-|[Unit 1. Introduction to Agents](https://huggingface.co/learn/agents-course/unit1/introduction)| 2025-06-07 | Understanding Agents, The Role of LLMs in Agents, Tools and Actions, The Agent Workflow | |
+|[Unit 1. Introduction to Agents](https://huggingface.co/learn/agents-course/unit1/introduction)| 2025-06-07 | Understanding Agents, The Role of LLMs in Agents, Tools and Actions, The Agent Workflow | [Session Notes](session_notes/02_unit1_discussion.md)|
 | [Unit 2. Introduction to Agentic Frameworks](https://huggingface.co/learn/agents-course/unit2/introduction) | 2025-06-14 | - [SmolAgents](https://huggingface.co/docs/smolagents/en/index), [LlamaIndex](https://www.llamaindex.ai/), [LangGraph](https://www.langchain.com/langgraph) | |
 | [Unit 3. Use Case for Agentic RAG](https://huggingface.co/learn/agents-course/unit3/agentic-rag/introduction) | 2025-06-21 | - RAG, Agentic RAG, Agentic RAG with smolagents | |
 | [Unit 4. Final Unit Project](https://huggingface.co/learn/agents-course/unit4/introduction) | 2025-06-28 |  |
