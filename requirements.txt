@@ -18,3 +18,10 @@ tensorboardx==2.6.4
 wandb==0.20.1
 torchvision==0.22.1
 transformers==4.52.4
+llama-index==0.12.44
+llama-index-retrievers-bm25==0.5.2
+llama-index-llms-ollama==0.6.2
+llama-index-embeddings-huggingface==0.5.5
+llama-index-vector-stores-chroma==0.4.2
+llama-index-llms-huggingface-api==0.5.0
+nbconvert==7.16.6
